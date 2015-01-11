@@ -1,0 +1,1 @@
+This repository contains all the exercises / examples not done in irb for the Prep Course.
